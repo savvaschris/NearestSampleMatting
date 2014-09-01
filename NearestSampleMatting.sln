@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NearestSampleMatting", "NearestSampleMatting\NearestSampleMatting.vcxproj", "{6DBB7AC4-84F4-44BD-989D-8F430109ACB9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NearestSampleMattingApp", "NearestSampleMattingApp\NearestSampleMattingApp.vcxproj", "{8B122CC2-2E1A-4F03-8B61-E178BC0F884C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DBB7AC4-84F4-44BD-989D-8F430109ACB9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6DBB7AC4-84F4-44BD-989D-8F430109ACB9}.Debug|Win32.Build.0 = Debug|Win32
+		{6DBB7AC4-84F4-44BD-989D-8F430109ACB9}.Release|Win32.ActiveCfg = Release|Win32
+		{6DBB7AC4-84F4-44BD-989D-8F430109ACB9}.Release|Win32.Build.0 = Release|Win32
+		{8B122CC2-2E1A-4F03-8B61-E178BC0F884C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8B122CC2-2E1A-4F03-8B61-E178BC0F884C}.Debug|Win32.Build.0 = Debug|Win32
+		{8B122CC2-2E1A-4F03-8B61-E178BC0F884C}.Release|Win32.ActiveCfg = Release|Win32
+		{8B122CC2-2E1A-4F03-8B61-E178BC0F884C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
